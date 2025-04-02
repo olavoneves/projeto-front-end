@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Git é como um diário mágico para projetos digitais. Ele guarda cada versão do seu trabalho, como fotos do progresso, para que você possa voltar no tempo se algo der errado. Ele também ajuda equipes a trabalhar juntas sem bagunçar as coisas, como um mediador inteligente. Pense nele como um "ctrl + Z" poderoso que nunca deixa você perder nada. É o melhor amigo de quem cria coisas no computador! E o melhor: ele transforma caos em ordem, dando superpoderes para você e seu time criarem sem medo de errar! Por fim o Git é a melhor ferramenta de versionamento de código atualmente.
+=======
+O GitHub é uma plataforma online onde desenvolvedores armazenam e compartilham códigos. Ele utiliza o Git, um sistema de controle de versão, para gerenciar mudanças em projetos de software. Com o GitHub, é possível colaborar com outras pessoas, revisar código e manter um histórico das alterações feitas. Também permite criar repositórios públicos ou privados. É muito usado para projetos de código aberto e para trabalhar em equipe no desenvolvimento de software.
+>>>>>>> 1fdd96ab1a98107b8b06e347cc8cfe27b8f0a535
